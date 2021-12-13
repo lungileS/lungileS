@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lungile Sigasa
 - 😄 Pronouns: they/them 
 - 👀 I’m interested in Web Development, Game Development, Distributed Computing, and Computer Graphics
-- 🌱 I’m currently learning React, Web development in Java, and C++
+- 🌱 I’m currently learning React,Web development in Java, OpenGL and C++
 - 💞️ I’m looking to collaborate on anything exciting. I am keen to learn and interact with like minded creators
 - 📫 How to reach me [Email](mailto:sigasa.l.a@gmail.com?subject=Github)
